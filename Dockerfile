@@ -3,7 +3,6 @@ FROM amazoncorretto:latest
 ENV DATA_DIR="/serverdata"
 ENV SERVER_DIR="${DATA_DIR}/serverfiles"
 
-WORKDIR /serverdata
 
 # adds to the filesystem of the image
 ADD .src ${SERVER_DIR}

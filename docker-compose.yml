@@ -1,6 +1,5 @@
 version: "3"
 
-
 services:
     mcs:
         image: the3venthoriz0n/hexxit2_mcs
@@ -16,5 +15,3 @@ services:
         ports:
             - 25566:25565
             - 25576:25575
-volumes:
-    src:

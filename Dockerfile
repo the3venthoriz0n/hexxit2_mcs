@@ -1,30 +1,24 @@
 FROM amazoncorretto:latest
 
+ENV DATA_DIR="/serverdata"
+ENV SERVER_DIR="${DATA_DIR}/serverfiles"
+
 WORKDIR /serverdata
-ENV DATA_DIR=/serverdata
-ENV SERVER_DIR=/serverdata/serverfiles
 
-# ENV LANG=en_US.UTF-8
-# ENV LANGUAGE=en_US:en
-# ENV LC_ALL=en_US.UTF-8
+# adds to the filesystem of the image
+ADD .src ${SERVER_DIR}
 
-# ENV RUNTIME_NAME=
-# ENV GAME_PARAMS=
-# ENV GAME_PORT=25565
-# ENV ENABLE_WEBCONSOLE=true
-# ENV GAME_V=
-# ENV XMX_SIZE=1024
-# ENV XMS_SIZE=1024
-# ENV EXTRA_JVM_PARAMS=
-# ENV ACCEPT_EULA=true
-# ENV UMASK=000
-# ENV UMASK=000
-# ENV UID=99
-# ENV GID=100
-# ENV USER=minecraft
-# ENV DATA_PERM=770
+# adds to the filesystem of the container
+#COPY /config/server.properties /tmp/server.properties
+#COPY .src /serverdata
+#COPY .src ${SERVER_DIR}
 
-# RUN bin/sh -c mkdir $DATA_DIR && mkdir $SERVER_DIR && useradd -d $DATA_DIR -s /bin/bash $USER && chown -R $USER $DATA_DIR && ulimit -n 2048
-COPY .src /serverdata
 CMD echo "Server is starting..." 
+
+#Server Start
 ENTRYPOINT ["sh", "LaunchServer.sh"]
+
+
+# docker images | awk '{print $3}' | xargs -I {} docker rmi {} -f
+
+# docker run -d --name='hexxit2' --net='bridge' -e TZ="America/Los_Angeles" -e HOST_OS="Unraid" -e HOST_HOSTNAME="dbServer" -e HOST_CONTAINERNAME="MinecraftBasicServer" -e 'JAR_NAME'='server' -e 'GAME_V'='latest' -e 'GAME_PARAMS'='' -e 'EXTRA_JVM_PARAMS'='' -e 'XMS_SIZE'='1024' -e 'XMX_SIZE'='1024' -e 'ACCEPT_EULA'='true' -e 'RUNTIME_NAME'='jre17' -e 'UID'='99' -e 'GID'='100' -l net.unraid.docker.managed=dockerman -l net.unraid.docker.webui='http://[IP]:[PORT:8080]/' -l net.unraid.docker.icon='https://raw.githubusercontent.com/ich777/docker-templates/master/ich777/images/mc.png' -p '25566:25565/tcp' -p '25576:25575/tcp' -p '9012:8080/tcp' -v '/mnt/cache/appdata/minecraft':'/serverdata/serverfiles':'rw' --restart=unless-stopped 'hexxit2'

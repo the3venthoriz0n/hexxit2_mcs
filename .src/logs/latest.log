@@ -1,0 +1,1422 @@
+[04:42:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[04:42:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[04:42:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[04:42:41] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[04:42:41] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_342, running on Linux:amd64:4.18.0-305.19.1.el8_4.x86_64, installed at /usr/lib/jvm/java-1.8.0-amazon-corretto/jre
+[04:42:41] [main/INFO] [FML]: Searching /serverdata/./mods for mods
+[04:42:42] [main/INFO] [FML]: Searching /serverdata/./mods/1.12.2 for mods
+[04:42:42] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-5.0.jar
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AquaAcrobatics-1.14.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod Aqua Acrobatics Transformer (com.fuzs.aquaacrobatics.core.AquaAcrobaticsCore) is not signed!
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Born In A Barn V1.8-1.12-1.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod com.chocohead.biab.BornInABarn does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/WARN] [FML]: The coremod Born in a Barn (com.chocohead.biab.BornInABarn) is not signed!
+[04:42:42] [main/INFO] [FML]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Chocolate_Quest_Repoured-1.12.2-2.6.11B.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod CQRPlugin (team.cqr.cqrepoured.asm.CQRPlugin) is not signed!
+[04:42:42] [main/WARN] [FML]: The coremod io.github.barteks2x.chunkgenlimiter.coremod.ChunkGenLimiterCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/WARN] [FML]: The coremod ChunkGenLimiterCoremod (io.github.barteks2x.chunkgenlimiter.coremod.ChunkGenLimiterCoremod) is not signed!
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in colytra-1.12.2-1.2.0.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod c4.colytra.asm.ColytraLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DupeFixProject-1.12.2-3.1.6.jar
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Farseek-1.12-2.5.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod farseek.core.FarseekCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/WARN] [FML]: The coremod FarseekCoreMod (farseek.core.FarseekCoreMod) is not signed!
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.14-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[04:42:42] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from HaxyMocreaturesModAdder.jar
+[04:42:42] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[04:42:42] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from loliasm-5.6.jar
+[04:42:42] [main/WARN] [FML]: The coremod openeye.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/WARN] [FML]: The coremod OpenEyePlugin (openeye.CorePlugin) is not signed!
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[04:42:42] [main/WARN] [FML]: The coremod com.therandomlabs.randompatches.core.RPCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:42:42] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from rare-ice-0.1.1.jar
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ReachFix-1.12.2-1.0.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod ReachFixPlugin (meldexun.reachfix.asm.ReachFixPlugin) is not signed!
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in secretroomsmod-1.12.2-5.6.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod SecretRoomsMod-Core (com.wynprice.secretroomsmod.core.SecretRoomsCore) is not signed!
+[04:42:42] [main/INFO] [FML]: [SecretRoomsMod-Core] Core loaded
+[04:42:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in UniDict-1.12.2-3.0.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:42:42] [main/WARN] [FML]: The coremod UniDictCoreMod (wanion.unidict.core.UniDictCoreMod) is not signed!
+[04:42:42] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-forge-mc1.12.2-0.2.7-universal.jar
+[04:42:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[04:42:42] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[04:42:42] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/serverdata/./mods/!mixinbooter-5.0.jar Service=LaunchWrapper Env=SERVER
+[04:42:42] [main/INFO] [MixinBooter]: MixinBootstrap Initializing...
+[04:42:42] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[04:42:42] [main/WARN] [FML]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
+[04:42:42] [main/WARN] [FML]: The coremod DupeFixProjectCoreMod (com.focamacho.dupefixproject.asm.DupeFixProjectCoreMod) is not signed!
+[04:42:42] [main/WARN] [FML]: The coremod MixinsCoreMod (uk.co.haxyshideout.mocreaturespatcher.mixins.MixinsCoreMod) is not signed!
+[04:42:42] [main/INFO] [uk.co.haxyshideout.mocreaturespatcher.mixins.MixinsCoreMod]: HaxyMocreaturesModAdder by Clienthax (Come play on our servers! https://discord.gg/muFUDgQqTm )
+[04:42:42] [main/INFO] [uk.co.haxyshideout.mocreaturespatcher.mixins.MixinsCoreMod]: Remember kids, if you release a mods src without the build files, you are a dick
+[04:42:42] [main/INFO] [uk.co.haxyshideout.mocreaturespatcher.mixins.MixinsCoreMod]: Mixing into CustomMobSpawner-3.11.5.jar
+[04:42:42] [main/WARN] [FML]: The coremod LoliASM (zone.rong.loliasm.core.LoliLoadingPlugin) is not signed!
+[04:42:42] [main/INFO] [LoliASM]: Lolis are on the server-side.
+[04:42:42] [main/INFO] [LoliASM]: Lolis are preparing and loading in mixins since Rongmario's too lazy to write pure ASM at times despite the mod being called 'LoliASM'
+[04:42:42] [main/INFO] [LoliASM]: Initializing StacktraceDeobfuscator...
+[04:42:42] [main/INFO] [LoliASM]: Found MCP stable-39 method mappings: methods-stable_39.csv
+[04:42:42] [main/INFO] [LoliASM]: Initialized StacktraceDeobfuscator.
+[04:42:42] [main/INFO] [LoliASM]: Installing DeobfuscatingRewritePolicy...
+[04:42:42] [main/INFO] [LoliASM]: Installed DeobfuscatingRewritePolicy.
+[04:42:42] [main/WARN] [FML]: The coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin) is not signed!
+[04:42:42] [main/INFO] [LaunchWrapper]: Loading tweak class name codechicken.asm.internal.Tweaker
+[04:42:42] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[04:42:42] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[04:42:42] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[04:42:42] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[04:42:42] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[04:42:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[04:42:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[04:42:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[04:42:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [Aqua Acrobatics Transformer]: Running in obf, thanks for playing with the mod!
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:44] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[04:42:44] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5633dafd
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.devenv.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.vfix_bugfixes.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.internal.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.vanities.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.registries.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.stripitemstack.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.lockcode.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.recipes.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.misc_fluidregistry.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.forgefixes.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.capability.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.efficienthashing.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.crashes.json mixin configuration.
+[04:42:44] [main/INFO] [MixinBooter]: Adding mixins.fix_mc129057.json mixin configuration.
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class codechicken.asm.internal.Tweaker
+[04:42:45] [main/INFO] [STDOUT]: [codechicken.asm.internal.Tweaker:injectIntoClassLoader:30]: false
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[04:42:45] [main/INFO] [LoliASM]: The lolis are now preparing to bytecode manipulate your game.
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraft.util.ResourceLocation to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraft.util.registry.RegistrySimple to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraft.nbt.NBTTagString to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraftforge.fml.common.discovery.ModCandidate to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraftforge.fml.common.discovery.ASMDataTable$ASMData to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraft.item.ItemStack to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraft.item.crafting.FurnaceRecipes to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class hellfirepvp.astralsorcery.common.enchantment.amulet.PlayerAmuletHandler to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class mezz.jei.suffixtree.Edge to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class betterwithmods.event.BlastingOilEvent to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class betterwithmods.common.items.ItemMaterial to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class lach_01298.qmd.render.entity.BeamRenderer to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.dries007.tfc.objects.entity.EntityFallingBlockTFC to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraft.item.ItemStack to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
+[04:42:45] [main/INFO] [LoliASM]: Adding class net.minecraft.nbt.NBTTagCompound to the transformation queue
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:45] [main/INFO] [FML]: [SecretRoomsTransformer] Registered
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:45] [main/INFO] [net.minecraft]: [farseek] Moving Farseek transformer after Sponge proxy
+[04:42:45] [main/INFO] [net.minecraft]: [farseek] Excluding Farseek transformer from Sponge pre-mixin transformations
+[04:42:45] [main/WARN] [mixin]: MixinEnvironment::addTransformerExclusion is deprecated!
+[04:42:45] [main/INFO] [net.minecraft]: [farseek] Re-enabling transformations on Sponge TrackingUtil
+[04:42:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:42:46] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[04:42:46] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[04:42:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[04:42:46] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[04:42:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[04:42:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[04:42:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:46] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[04:42:46] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[04:42:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[04:42:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:46] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[04:42:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[04:42:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:46] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:46] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[04:42:46] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[04:42:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:46] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:46] [main/INFO] [FML]: [Colytra ASM] Preparing to transform EntityLivingBase
+[04:42:46] [main/INFO] [FML]: [Colytra ASM] Initiating transformation to method (Names [onLivingUpdate, func_70636_d, n] Descriptor ()V / ()V)
+[04:42:46] [main/INFO] [FML]: [Colytra ASM] Found method, initiating patch...
+[04:42:46] [main/INFO] [FML]: [Colytra ASM] Found target node for patching: INVOKESPECIAL vp.r ()V
+[04:42:46] [main/INFO] [FML]: [Colytra ASM] Patch result: Success!
+[04:42:46] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.c4.colytra.asm.ElytraTransformer' was detected and will no longer process meta class data
+[04:42:46] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.meldexun.reachfix.asm.ReachFixClassTransformer' was detected and will no longer process meta class data
+[04:42:46] [main/WARN] [mixin]: Error loading class: net/minecraft/world/biome/BiomeColorHelper$3 (java.lang.ClassNotFoundException: The specified class 'net.minecraft.world.biome.BiomeColorHelper$3' was not found)
+[04:42:46] [main/WARN] [mixin]: @Mixin target net/minecraft/world/biome/BiomeColorHelper$3 was not found META-INF/mixins.aquaacrobatics.json:BiomeColorHelperMixin
+[04:42:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[04:42:47] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[04:42:47] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[04:42:47] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:47] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[04:42:47] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:47] [main/INFO] [LoliASM]: Improving FurnaceRecipes. Lookups are now a lot faster.
+[04:42:47] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[04:42:47] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[04:42:47] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.pl.asie.foamfix.coremod.FoamFixTransformer' was detected and will no longer process meta class data
+[04:42:47] [main/WARN] [OpenEye]: openeye.asm.injectors.ExceptionHandlerInjector.visitTryCatchBlock(ExceptionHandlerInjector.java:49): Invalid method structure, more than 2 exception handlers. Aborting
+[04:42:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[04:42:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[04:42:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[04:42:47] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[04:42:47] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[04:42:47] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:47] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:47] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[04:42:47] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:47] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:47] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[04:42:47] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[04:42:47] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:47] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[04:42:47] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:47] [main/INFO] [FML]: [Colytra ASM] Preparing to transform EntityLivingBase
+[04:42:47] [main/INFO] [FML]: [Colytra ASM] Initiating transformation to method (Names [onLivingUpdate, func_70636_d, n] Descriptor ()V / ()V)
+[04:42:47] [main/INFO] [FML]: [Colytra ASM] Found method, initiating patch...
+[04:42:47] [main/INFO] [FML]: [Colytra ASM] Found target node for patching: INVOKESPECIAL vp.r ()V
+[04:42:47] [main/INFO] [FML]: [Colytra ASM] Patch result: Success!
+[04:42:48] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[04:42:48] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[04:42:48] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:48] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:48] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:48] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[04:42:48] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:48] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[04:42:48] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:48] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:48] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[04:42:48] [main/INFO] [LoliASM]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[04:42:48] [main/INFO] [LoliASM]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[04:42:48] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[04:42:48] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[04:42:48] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:48] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[04:42:48] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:48] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[04:42:48] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[04:42:48] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:48] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:48] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[04:42:48] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[04:42:48] [main/INFO] [FML]: [SecretRoomsTransformer] Running Transform on net.minecraft.block.state.BlockStateContainer$StateImplementation
+[04:42:48] [main/INFO] [FML]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.block.state.BlockStateContainer$StateImplementation
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[04:42:49] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[04:42:49] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[04:42:49] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:49] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[04:42:49] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:49] [main/INFO] [LoliASM]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[04:42:49] [main/INFO] [LoliASM]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[04:42:49] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[04:42:49] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[04:42:49] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:49] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[04:42:49] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[04:42:49] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:49] [main/INFO] [FML]: [SecretRoomsTransformer] Running Transform on net.minecraft.block.BlockBreakable
+[04:42:49] [main/INFO] [FML]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.block.BlockBreakable
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[04:42:49] [main/INFO] [LoliASM]: Replacing ClassHierarchyManager::superclasses with a dummy map.
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[04:42:49] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[04:42:49] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[04:42:49] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:49] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[04:42:49] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:49] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[04:42:49] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:49] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[04:42:49] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:49] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[04:42:49] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:49] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[04:42:49] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:49] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[04:42:49] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:49] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[04:42:49] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:49] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[04:42:49] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[04:42:49] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:49] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:49] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[04:42:49] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:49] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[04:42:49] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:49] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[04:42:49] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:49] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[04:42:49] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:49] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[04:42:50] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[04:42:50] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[04:42:50] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentDamage
+[04:42:50] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[04:42:50] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:50] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[04:42:50] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[04:42:50] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:50] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[04:42:50] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[04:42:50] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:50] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[04:42:50] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:50] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[04:42:50] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[04:42:50] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:50] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[04:42:50] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:50] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[04:42:50] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[04:42:50] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:50] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:50] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[04:42:50] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[04:42:50] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:50] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:50] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[04:42:50] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:50] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:50] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemBanner
+[04:42:50] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
+[04:42:50] [main/INFO] [Quark ASM]: Failed to locate the method!
+[04:42:51] [main/INFO] [meldexun.asmutil.ASMUtil]: Transforming method: EntityPotion#isWaterSensitiveEntity(EntityLivingBase)
+[04:42:51] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
+[04:42:51] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[04:42:51] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:51] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:51] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[04:42:51] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[04:42:51] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[04:42:51] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[04:42:51] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[04:42:51] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[04:42:51] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[04:42:52] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[04:42:52] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
+[04:42:52] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:52] [main/INFO] [Quark ASM]: Located patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
+[04:42:52] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:52] [main/INFO] [LoliASM]: Improving FurnaceRecipes. Lookups are now a lot faster.
+[04:42:53] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
+[04:42:53] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[04:42:53] [main/INFO] [Quark ASM]: Located Method, patching...
+[04:42:53] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[04:42:53] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[04:42:53] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[04:42:53] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[04:42:53] [main/INFO] [Quark ASM]: Patch result: true
+[04:42:53] [main/WARN] [OpenEye]: openeye.asm.injectors.ExceptionHandlerInjector.visitTryCatchBlock(ExceptionHandlerInjector.java:49): Invalid method structure, more than 2 exception handlers. Aborting
+[04:42:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[04:42:53] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[04:42:53] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[04:42:53] [Server thread/INFO] [UniDictCoreMod]: Successfully transformed 'net.minecraftforge.oredict.OreIngredient'.
+[04:42:53] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[04:42:53] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[04:42:54] [Server thread/WARN] [FML]: Enabling removal of erroring Entities - USE AT YOUR OWN RISK
+[04:42:54] [Server thread/WARN] [FML]: Enabling removal of erroring Tile Entities - USE AT YOUR OWN RISK
+[04:42:54] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_180714_a
+[04:42:54] [Server thread/INFO] [FML]: Searching /serverdata/./mods for mods
+[04:42:54] [Server thread/INFO] [FML]: Searching /serverdata/./mods/1.12.2 for mods
+[04:42:54] [Server thread/WARN] [FML]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.13.2
+[04:42:54] [Server thread/WARN] [FML]: Mod bettermineshafts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.2.1
+[04:42:55] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[04:42:55] [Server thread/WARN] [FML]: Mod cosmeticarmorreworked is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-v5a
+[04:42:55] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
+[04:42:56] [Server thread/WARN] [FML]: Mod farmingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.1.28
+[04:42:56] [Server thread/WARN] [FML]: Mod farseek is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.5.1
+[04:42:56] [Server thread/WARN] [FML]: Mod microblockcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.2.83
+[04:42:56] [Server thread/WARN] [FML]: Mod forgemultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.2.83
+[04:42:56] [Server thread/WARN] [FML]: Mod minecraftmultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.2.83
+[04:42:56] [Server thread/WARN] [FML]: Mod helpfixer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.1-1.5.18
+[04:42:56] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[04:42:56] [Server thread/WARN] [FML]: Mod kleeslabs is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 5.4.12
+[04:42:57] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[04:42:57] [Server thread/WARN] [FML]: Mod rare-ice is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version ${version}
+[04:42:57] [Server thread/WARN] [FML]: Mod savemystronghold is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.0.0
+[04:42:57] [Server thread/WARN] [FML]: Mod streams is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.4.9
+[04:42:58] [Server thread/WARN] [FML]: Mod translocators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.5.2.81
+[04:42:58] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[04:42:58] [Server thread/INFO] [FML]: Forge Mod Loader has identified 182 mods to load
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for attributefix: assets/attributefix/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for bettermineshafts: assets/bettermineshafts/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for cakechomps: assets/cakechomps/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for chunkgenlimit: assets/chunkgenlimit/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for classiccombat: assets/classiccombat/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for colorchat: assets/colorchat/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for consolefilter: assets/consolefilter/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for customspawner: assets/customspawner/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for customstartinggear: assets/customstartinggear/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for damagetilt: assets/damagetilt/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for dupefixproject: assets/dupefixproject/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for experiencebugfix: assets/experiencebugfix/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for farseek: assets/farseek/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for fastleafdecay: assets/fastleafdecay/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for fastbench: assets/fastbench/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for fencejumper: assets/fencejumper/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for microblockcbe: assets/microblockcbe/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for forgemultipartcbe: assets/forgemultipartcbe/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for minecraftmultipartcbe: assets/minecraftmultipartcbe/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for gunpowderlib: assets/gunpowderlib/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for helpfixer: assets/helpfixer/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for k4lib: assets/k4lib/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for kleeslabs: assets/kleeslabs/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for lunatriuscore: assets/lunatriuscore/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for mcmultipart: assets/mcmultipart/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for morpheus: assets/morpheus/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for packcrashinfo: assets/packcrashinfo/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for placebo: assets/placebo/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for rare-ice: assets/rare-ice/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for savemystronghold: assets/savemystronghold/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for stg: assets/stg/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for streams: assets/streams/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for tinkersoredictcache: assets/tinkersoredictcache/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for tombmanygraves2api: assets/tombmanygraves2api/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for tombmanypluginsbackpacks: assets/tombmanypluginsbackpacks/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for tombmanypluginscosmeticarmorreworked: assets/tombmanypluginscosmeticarmorreworked/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for unidict: assets/unidict/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for unloader: assets/unloader/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for craftstudioapi: assets/craftstudioapi/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for lemonlib: assets/lemonlib/lang/en_us.lang
+[04:42:58] [Server thread/WARN] [FML]: Missing English translation for phosphor-lighting: assets/phosphor-lighting/lang/en_us.lang
+[04:42:58] [Server thread/INFO] [FML]: FML has found a non-mod file Born In A Barn V1.8-1.12-1.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[04:42:58] [Server thread/INFO] [FML]: FML has found a non-mod file ReachFix-1.12.2-1.0.5.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[04:42:58] [Server thread/INFO] [MixinBooter]: Instantiating all MixinLoader annotated classes...
+[04:42:58] [Server thread/INFO] [MixinBooter]: Instantiating class com.fuzs.aquaacrobatics.core.ModCompatMixinHandler for its mixins.
+[04:42:58] [Server thread/INFO] [Aqua Acrobatics Transformer]: Aqua Acrobatics is loading mod compatibility mixins
+[04:42:58] [Server thread/INFO] [MixinBooter]: Instantiating class youyihj.tinkersoredictcache.MixinInit for its mixins.
+[04:42:58] [Server thread/INFO] [MixinBooter]: Instantiating all ILateMixinLoader implemented classes...
+[04:42:58] [Server thread/INFO] [MixinBooter]: Instantiating class zone.rong.loliasm.core.LoliLateMixinLoader for its mixins.
+[04:42:58] [Server thread/INFO] [MixinBooter]: Adding mixins.bakedquadsquasher.json mixin configuration.
+[04:42:58] [Server thread/INFO] [MixinBooter]: Adding mixins.searchtree_mod.json mixin configuration.
+[04:43:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ivtoolkit, OpenEye, reachfix, mixinbooter, openmodscore, foamfixcore, srm-hooks, randompatches, additionalbanners, akashictome, appleskin, aquaacrobatics, asr, asmc, attributefix, autoreglib, backpack, backups, badwithernocookiereloaded, battletowers, baubles, betterbuilderswands, betterinvisibility, bettermineshafts, bibliocraft, birdsnests, blockcraftery, bookshelf, bountiful, cakechomps, capsule, chameleon, chesttransporter, chisel, chiselsandbits, chococraftplus, cqrepoured, chunkgenlimit, classiccombat, codechickenlib, cofhcore, cofhworld, colorchat, colytra, combustfish, comforts, conarm, consolefilter, cosmeticarmorreworked, crafttweaker, crafttweakerjei, creeperconfetti, culinaryconstruct, customspawner, customstartinggear, damagetilt, deadlyworld, deathcounter, debark, dimdoors, mocreatures, dupefixproject, element, elenaidodge, eplus, exchangers, experiencebugfix, eyesinthedarkness, fairylights, fantasticlib, farmingforblockheads, farseek, fastleafdecay, fastbench, fencejumper, foamfix, forgelin, microblockcbe, forgemultipartcbe, minecraftmultipartcbe, geckolib3, gravelores, growthcraft_fishtrap, growthcraft_apples, growthcraft_grapes, growthcraft_bamboo, growthcraft, growthcraft_bees, growthcraft_rice, growthcraft_hops, growthcraft_milk, growthcraft_cellar, gunpowderlib, jei, helpfixer, hexxitgear, hexxitworld, waila, ichunutil, infernalmobs, ironchest, itemdamagerebalancer, jepb, jexclusives, jrftl, k4lib, kleeslabs, loliasm, loottweaker, lostbooks, lunatriuscore, mantle, mcmultipart, testdummy, morpheus, mysticallib, natura, naturescompass, netherendingores, netherportalfix, recipehandler, nyx, openblocks, openmods, oreberries, packcrashinfo, parry, patchouli, placeableitems, placebo, plustic, pvj, quark, rare-ice, reborncore, reccomplex, redstoneflux, xreliquary, roguelike, savemystronghold, schematica, secretroomsmod, skewers, soulshardsrespawn, spartanshields, specialmobs, statues, stg, storagedrawers, streams, tconstruct, thermalfoundation, tinkersaddons, tinkersjei, tinkersoredictcache, tinkertoolleveling, tombmanygraves, tombmanygraves2api, tombmanypluginsbackpacks, tombmanypluginscosmeticarmorreworked, torchmaster, translocators, traverse, treechop, tumbleweed, twilightforest, unidict, unloader, wanionlib, waystones, craftstudioapi, cyclopstek, lemonlib, llibrary, modwinder, ladylib, lumen, phosphor-lighting] at CLIENT
+[04:43:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ivtoolkit, OpenEye, reachfix, mixinbooter, openmodscore, foamfixcore, srm-hooks, randompatches, additionalbanners, akashictome, appleskin, aquaacrobatics, asr, asmc, attributefix, autoreglib, backpack, backups, badwithernocookiereloaded, battletowers, baubles, betterbuilderswands, betterinvisibility, bettermineshafts, bibliocraft, birdsnests, blockcraftery, bookshelf, bountiful, cakechomps, capsule, chameleon, chesttransporter, chisel, chiselsandbits, chococraftplus, cqrepoured, chunkgenlimit, classiccombat, codechickenlib, cofhcore, cofhworld, colorchat, colytra, combustfish, comforts, conarm, consolefilter, cosmeticarmorreworked, crafttweaker, crafttweakerjei, creeperconfetti, culinaryconstruct, customspawner, customstartinggear, damagetilt, deadlyworld, deathcounter, debark, dimdoors, mocreatures, dupefixproject, element, elenaidodge, eplus, exchangers, experiencebugfix, eyesinthedarkness, fairylights, fantasticlib, farmingforblockheads, farseek, fastleafdecay, fastbench, fencejumper, foamfix, forgelin, microblockcbe, forgemultipartcbe, minecraftmultipartcbe, geckolib3, gravelores, growthcraft_fishtrap, growthcraft_apples, growthcraft_grapes, growthcraft_bamboo, growthcraft, growthcraft_bees, growthcraft_rice, growthcraft_hops, growthcraft_milk, growthcraft_cellar, gunpowderlib, jei, helpfixer, hexxitgear, hexxitworld, waila, ichunutil, infernalmobs, ironchest, itemdamagerebalancer, jepb, jexclusives, jrftl, k4lib, kleeslabs, loliasm, loottweaker, lostbooks, lunatriuscore, mantle, mcmultipart, testdummy, morpheus, mysticallib, natura, naturescompass, netherendingores, netherportalfix, recipehandler, nyx, openblocks, openmods, oreberries, packcrashinfo, parry, patchouli, placeableitems, placebo, plustic, pvj, quark, rare-ice, reborncore, reccomplex, redstoneflux, xreliquary, roguelike, savemystronghold, schematica, secretroomsmod, skewers, soulshardsrespawn, spartanshields, specialmobs, statues, stg, storagedrawers, streams, tconstruct, thermalfoundation, tinkersaddons, tinkersjei, tinkersoredictcache, tinkertoolleveling, tombmanygraves, tombmanygraves2api, tombmanypluginsbackpacks, tombmanypluginscosmeticarmorreworked, torchmaster, translocators, traverse, treechop, tumbleweed, twilightforest, unidict, unloader, wanionlib, waystones, craftstudioapi, cyclopstek, lemonlib, llibrary, modwinder, ladylib, lumen, phosphor-lighting] at SERVER
+[04:43:01] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
+[04:43:01] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.renderer.block.model.ModelResourceLocation.<init>
+[04:43:04] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[04:43:04] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[04:43:04] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[04:43:04] [Server thread/INFO] [Quark ASM]: Patch result: true
+[04:43:04] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[04:43:04] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[04:43:04] [Server thread/WARN] [mixin]: Static binding violation: PRIVATE @Overwrite method func_76615_h in mixins.phosphor.json:common.MixinChunk cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[04:43:05] [Server thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
+[04:43:05] [Server thread/ERROR] [FML]: The mod cofhworld is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source CoFHWorld-1.12.2-1.4.0.1-universal.jar, however there is no signature matching that description
+[04:43:06] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 4) in net/minecraftforge/fluids/BlockFluidClassic func_180650_b
+[04:43:06] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[04:43:06] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[04:43:06] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[04:43:07] [Server thread/ERROR] [FML]: The mod eplus is expecting signature @FINGERPRINT@ for source EnchantingPlus-1.12.2-5.0.176-fix.jar, however there is no signature matching that description
+[04:43:07] [Server thread/ERROR] [FML]: The mod thermalfoundation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalFoundation-1.12.2-2.6.7.1-universal.jar, however there is no signature matching that description
+[04:43:07] [Server thread/INFO] [STDOUT]: [com.mactso.experiencebugfix.Main:<init>:22]: experiencebugfix: Registering Mod.
+[04:43:08] [Server thread/INFO] [testdummy]: Please don't hurt me. :S
+[04:43:08] [Server thread/INFO] [Pulsar-natura]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[04:43:09] [Server thread/INFO] [packcrashinfo]: |--------------------------------------------------------------|
+[04:43:09] [Server thread/INFO] [packcrashinfo]: | Modpack Information                                          |
+[04:43:09] [Server thread/INFO] [packcrashinfo]: | Modpack: [Hexxit II] Version: [1.4.0-Server] by author [Jon] |
+[04:43:09] [Server thread/INFO] [packcrashinfo]: |--------------------------------------------------------------|
+[04:43:09] [Server thread/ERROR] [FML]: The mod reborncore is expecting signature 8727a3141c8ec7f173b87aa78b9b9807867c4e6b for source RebornCore-1.12.2-3.19.5-universal.jar, however there is no signature matching that description
+[04:43:09] [Server thread/ERROR] [reborncore]: Invalid fingerprint detected for RebornCore!
+[04:43:10] [Server thread/ERROR] [FML]: The mod torchmaster is expecting signature 5e9a436b366831c8f54a7e80b015784da69278c6 for source torchmaster_1.12.2-1.8.5.0.jar, however there is no signature matching that description
+[04:43:11] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[04:43:11] [Server thread/INFO] [FML]: Found 2144 ObjectHolder annotations
+[04:43:11] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[04:43:11] [Server thread/INFO] [FML]: Found 2 ItemStackHolder annotations
+[04:43:11] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[04:43:12] [Server thread/INFO] [Quark]: 'Improved sleeping' is forcefully disabled as it's incompatible with the following loaded mods: [morpheus]
+[04:43:13] [Server thread/INFO] [Quark]: 'Food tooltip' is forcefully disabled as it's incompatible with the following loaded mods: [appleskin]
+[04:43:13] [Server thread/INFO] [Quark]: Module misc is enabled
+[04:43:13] [Server thread/INFO] [Quark]: Module tweaks is enabled
+[04:43:13] [Server thread/INFO] [Quark]: Module world is enabled
+[04:43:13] [Server thread/INFO] [Quark]: Module automation is enabled
+[04:43:13] [Server thread/INFO] [Quark]: Module management is enabled
+[04:43:13] [Server thread/INFO] [Quark]: Module experimental is disabled
+[04:43:13] [Server thread/INFO] [Quark]: Module decoration is enabled
+[04:43:13] [Server thread/INFO] [Quark]: Module client is enabled
+[04:43:13] [Server thread/INFO] [Quark]: Module vanity is enabled
+[04:43:13] [Server thread/INFO] [Quark]: Module building is enabled
+[04:43:13] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
+[04:43:13] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraftforge.common.property.ExtendedBlockState.foamfix_mapper
+[04:43:13] [Server thread/INFO] [betterbuilderswands]: Access transform success createStackedBlock (func_180643_i).
+[04:43:14] [Server thread/INFO] [FML]: Applying holder lookups
+[04:43:14] [Server thread/INFO] [FML]: Holder lookups applied
+[04:43:14] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[04:43:14] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled.tesr`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[04:43:14] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitybittank`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[04:43:15] [Server thread/INFO] [ChocoCraft Plus]: Registered Harvestcraft-compliant Oredict entries
+[04:43:15] [Server thread/INFO] [ChocoCraft Plus]: Registered Chocobo Stables village component
+[04:43:15] [Server thread/INFO] [ChocoCraft Plus]: Registered Chocobo Stables world generation
+[04:43:15] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
+[04:43:15] [Server thread/INFO] [CoFH World]: Registering default World Generators...
+[04:43:15] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
+[04:43:15] [Server thread/INFO] [CoFH World]: Complete.
+[04:43:15] [Server thread/INFO] [colorchat]: ColorChat starting up!
+[04:43:15] [Server thread/INFO] [morpheus]: Loading configuration
+[04:43:16] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[04:43:16] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Chisel.
+[04:43:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[04:43:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[04:43:16] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[04:43:16] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Tinkers' Construct.
+[04:43:16] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[04:43:16] [Server thread/INFO] [consolefilter]: 9 message(s) to be filtered.
+[04:43:16] [Server thread/INFO] [customstartinggear]: Reading starting inventory config
+[04:43:16] [Server thread/INFO] [customstartinggear]: Loaded 2 starting items.
+[04:43:16] [Server thread/INFO] [deadlyworld]: Loading configs...
+[04:43:16] [Server thread/INFO] [deadlyworld]: Enabled for 1 dimensions; loading additional dimension configs...
+[04:43:16] [Server thread/INFO] [deadlyworld]: Loaded configs in 216.613225 ms
+[04:43:17] [Server thread/INFO] [foamfix]: Removing LaunchWrapper package manifest map...
+[04:43:20] [Server thread/WARN] [FML]: Unable to inject capability landmaster.plustic.api.Toggle$IToggleArmor at landmaster.plustic.api.Toggle$Gui.TOGGLE_ARMOR
+java.lang.ClassNotFoundException: landmaster.plustic.api.Toggle$Gui
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_342]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_342]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_342]
+	at java.lang.Class.forName(Class.java:264) ~[?:1.8.0_342]
+	at net.minecraftforge.common.capabilities.CapabilityManager$2.apply(CapabilityManager.java:162) ~[CapabilityManager$2.class:?]
+	at net.minecraftforge.common.capabilities.CapabilityManager$2.apply(CapabilityManager.java:156) ~[CapabilityManager$2.class:?]
+	at net.minecraftforge.common.capabilities.CapabilityManager.register(CapabilityManager.java:95) ~[CapabilityManager.class:?]
+	at landmaster.plustic.api.Toggle.<clinit>(Toggle.java:51) ~[Toggle.class:?]
+	at landmaster.plustic.traits.Global.<init>(Global.java:38) ~[Global.class:?]
+	at landmaster.plustic.traits.Global.<clinit>(Global.java:31) ~[Global.class:?]
+	at landmaster.plustic.modules.ModuleBase.init(ModuleBase.java:67) ~[ModuleBase.class:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_342]
+	at landmaster.plustic.PlusTiC.preInit(PlusTiC.java:141) [PlusTiC.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_342]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_342]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_342]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_342]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor10.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_342]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_342]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_342]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_342]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_342]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_342]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/gui/GuiScreen
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_342]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756) ~[?:1.8.0_342]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[?:1.8.0_342]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	... 48 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_342]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_342]
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_342]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756) ~[?:1.8.0_342]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[?:1.8.0_342]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	... 48 more
+[04:43:21] [Server thread/INFO] [OpenMods]: openmods.config.game.GameRegistryObjectsProvider.processAnnotations(GameRegistryObjectsProvider.java:208): Object grave (from field public static net.minecraft.block.Block openblocks.OpenBlocks$Blocks.grave) is disabled
+[04:43:22] [Server thread/INFO] [placeableitems]: Started loading placeableitems version 3.3
+[04:43:23] [Server thread/INFO] [placeableitems]: Loaded placeableitems version 3.3 correctly
+[04:43:23] [Server thread/INFO] [pvj]: Project: Vibrant Journeys detected that you also have Traverse installed! Safe travels!
+[04:43:23] [Server thread/INFO] [reborncore]: Pre loaded registries in 33ms
+[04:43:23] [Server thread/INFO] [reborncore]: Loaded registrys for reborncore.common.registration.RegistryConstructionEvent in 35ms
+[04:43:23] [Server thread/INFO] [reborncore]: Loaded power manager from: ForgePowerManager
+[04:43:23] [Server thread/INFO] [reborncore]: Loaded registrys for net.minecraftforge.fml.common.event.FMLPreInitializationEvent in 6ms
+[04:43:23] [Server thread/WARN] [FML]: ****************************************
+[04:43:23] [Server thread/WARN] [FML]: * A broken ore dictionary registration with name foodCaramel has occurred. It adds an item (type: class casadis.skewers.items.ItemMisc) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Skewers report it to them!
+[04:43:23] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:679)
+[04:43:23] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:651)
+[04:43:23] [Server thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:649)
+[04:43:23] [Server thread/WARN] [FML]: *  at casadis.skewers.util.handlers.OreDictHandler.init(OreDictHandler.java:42)
+[04:43:23] [Server thread/WARN] [FML]: *  at casadis.skewers.Main.PreInit(Main.java:36)
+[04:43:23] [Server thread/WARN] [FML]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)...
+[04:43:23] [Server thread/WARN] [FML]: ****************************************
+[04:43:23] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[04:43:23] [Server thread/INFO] [specialmobs]: Loading configs...
+[04:43:24] [Server thread/INFO] [specialmobs]: Loaded configs in 353.919189 ms
+[04:43:24] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Successfully loaded the friend list.
+[04:43:24] [Server thread/INFO] [unloader]: Unloader loaded!... Wait... What?
+[04:43:25] [LadyLib HTTP Helper/WARN] [LadyLib/ModWinder]: Could not create the list of Ladysnake mods
+java.util.concurrent.CompletionException: ladylib.networking.http.HTTPRequestException: Got a bad response code from the server (code 404)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_342]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) [?:1.8.0_342]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) [?:1.8.0_342]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_342]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_342]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+Caused by: ladylib.networking.http.HTTPRequestException: Got a bad response code from the server (code 404)
+	at ladylib.networking.http.HTTPRequestHelper.requestJSON(HTTPRequestHelper.java:159) ~[HTTPRequestHelper.class:?]
+	at ladylib.networking.http.HTTPRequestHelper.lambda$getJSON$1(HTTPRequestHelper.java:91) ~[HTTPRequestHelper.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_342]
+	... 3 more
+[04:43:25] [Server thread/INFO] [Chisel]: Loading blocks...
+[04:43:25] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[04:43:25] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[04:43:25] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[04:43:25] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[04:43:25] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[04:43:25] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[04:43:26] [Server thread/INFO] [Netherending Ores]: Registered Blocks
+[04:43:27] [Server thread/INFO] [FML]: Applying holder lookups
+[04:43:27] [Server thread/INFO] [FML]: Holder lookups applied
+[04:43:27] [Server thread/INFO] [Backpack]: Loading items...
+[04:43:27] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[04:43:27] [Server thread/INFO] [Chisel]: Loading items...
+[04:43:27] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[04:43:27] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[04:43:27] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[04:43:27] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
+[04:43:28] [Server thread/INFO] [Netherending Ores]: Registered ItemBlocks
+[04:43:28] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[04:43:28] [Server thread/INFO] [FML]: Applying holder lookups
+[04:43:28] [Server thread/INFO] [FML]: Holder lookups applied
+[04:43:28] [Server thread/INFO] [Netherending Ores]: Registered Ore Dictionary Entries
+[04:43:29] [Server thread/INFO] [mocreatures]: Registering entities...
+[04:43:30] [Server thread/INFO] [mocreatures]: Entity registration complete.
+[04:43:30] [Server thread/WARN] [Lumen]: Can't find twilight forest config despite mod being installed
+java.lang.NoSuchFieldException: dimensionID
+	at java.lang.Class.getField(Class.java:1731) ~[?:1.8.0_342]
+	at ladysnake.lumen.common.entities.EntityFirefly.<clinit>(EntityFirefly.java:28) ~[EntityFirefly.class:?]
+	at ladysnake.lumen.common.init.ModEntities.createEntry(ModEntities.java:124) [ModEntities.class:?]
+	at ladysnake.lumen.common.init.ModEntities.register(ModEntities.java:83) [ModEntities.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_505_ModEntities_register_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:630) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:30] [Server thread/INFO] [FML]: Applying holder lookups
+[04:43:30] [Server thread/INFO] [FML]: Holder lookups applied
+[04:43:30] [Server thread/INFO] [FML]: Applying holder lookups
+[04:43:30] [Server thread/INFO] [FML]: Holder lookups applied
+[04:43:30] [Server thread/INFO] [FML]: Injecting itemstacks
+[04:43:30] [Server thread/INFO] [FML]: Itemstack injection complete
+[04:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[04:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[04:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[04:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 0.0.0.0:25565
+[04:43:30] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[04:43:30] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:markerpole
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_342]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:30] [Server thread/ERROR] [FML]: Parsing error loading recipe bibliocraft:clipboard
+com.google.gson.JsonSyntaxException: Invalid pattern: empty pattern not allowed
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:488) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_342]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:32] [Server thread/INFO] [Backpack]: Loading recipes...
+[04:43:32] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
+[04:43:32] [Server thread/INFO] [Chisel]: Loading recipes...
+[04:43:32] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[04:43:32] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[04:43:32] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[04:43:32] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[04:43:33] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[04:43:34] [Server thread/INFO] [FML]: Applying holder lookups
+[04:43:34] [Server thread/INFO] [FML]: Holder lookups applied
+[04:43:35] [Server thread/INFO] [ChunkGenLimitTransformer]: Transforming net.minecraft.server.management.PlayerChunkMap
+[04:43:35] [Server thread/INFO] [ChunkGenLimitTransformer]:  > Finding method func_72693_b
+[04:43:35] [Server thread/INFO] [ChunkGenLimitTransformer]:  > Transforming PlayerChunkMap.tick()
+[04:43:35] [Server thread/INFO] [ChunkGenLimitTransformer]:  >>> Replacing constant 50000000L with getTimeLimit
+[04:43:35] [Server thread/INFO] [ChunkGenLimitTransformer]:  >>> Replacing constant 49 with getChunkLimit
+[04:43:35] [Server thread/WARN] [morpheus]: New day handler for dimension 0 has been replaced
+[04:43:35] [Server thread/INFO] [dimdoors]: Loaded 156 templates in 29 ms.
+[04:43:35] [Server thread/INFO] [DupeFix Project]: Loaded fixes for Tinkers' Construct
+[04:43:35] [Server thread/INFO] [DupeFix Project]: Loaded fixes for Quark
+[04:43:35] [Server thread/INFO] [foamfix]: Deduplicated 577 property sets.
+[04:43:35] [Server thread/INFO] [foamfix]: Weakening LaunchWrapper resource cache...
+[04:43:35] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 25, config file at: /serverdata/config/infernalmobs.cfg
+[04:43:35] [Thread-13/WARN] [Jon's Exclusives]: Login events were not activated as the remote config URL is missing
+[04:43:35] [iChunUtil Online Resource Thread/WARN] [iChunUtil]: Error retrieving mods versions list.
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/versions.json
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1898)
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1492)
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490)
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivileged(Native Method)
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1489)
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.net.URL.openStream(URL.java:1093)
+[04:43:35] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at me.ichun.mods.ichunutil.common.thread.ThreadGetResources.run(ThreadGetResources.java:67)
+[04:43:35] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.hellsand@0 = 1xtile.natura.nether_glass@0
+[04:43:36] [Server thread/INFO] [Netherending Ores]: Registered Vanilla Recipes
+[04:43:36] [Server thread/INFO] [Netherending Ores]: Registered Tinkers' Construct Recipes
+[04:43:36] [Server thread/INFO] [Netherending Ores]: Loaded WAILA/HWYLA Integration
+[04:43:36] [Server thread/INFO] [reborncore]: Found 238 ores
+[04:43:36] [Server thread/INFO] [reborncore]: Created new network wrapper rc&reborncore.&64769
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&64769 side: SERVER id:0
+[04:43:36] [Server thread/INFO] [reborncore]: Created new network wrapper rc&reborncore.&39932
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: CLIENT id:0
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: SERVER id:1
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: SERVER id:2
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: SERVER id:3
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: CLIENT id:4
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: CLIENT id:5
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: SERVER id:6
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: SERVER id:7
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: CLIENT id:8
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: CLIENT id:9
+[04:43:36] [Server thread/INFO] [reborncore]: Registed packet to rc&reborncore.&39932 side: CLIENT id:10
+[04:43:36] [Server thread/INFO] [reborncore]: Loaded registrys for net.minecraftforge.fml.common.event.FMLInitializationEvent in 0ms
+[04:43:37] [Server thread/INFO] [specialmobs]: Registering entities...
+[04:43:37] [Server thread/INFO] [specialmobs]: Registered 97 special variants!
+[04:43:37] [Server thread/INFO] [specialmobs]: Registered entities in 81.698216 ms
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Attempting to register special inventory: vanilla
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Added special inventory with id (vanilla) to TombManyGraves.
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Attempting to register special inventory: cosmeticarmor
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Added special inventory with id (cosmeticarmor) to TombManyGraves.
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Attempting to register special inventory: cosmeticarmor
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Special inventory with id (cosmeticarmor) already exists, but the new one is able to be overwritten. Ignoring new inventory.
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Attempting to register special inventory: bauble
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Added special inventory with id (bauble) to TombManyGraves.
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Attempting to register special inventory: eydamosbackpacks
+[04:43:37] [Server thread/INFO] [tombmanygraves]: [TombManyGraves]: Added special inventory with id (eydamosbackpacks) to TombManyGraves.
+[04:43:37] [Server thread/INFO] [UniDictCoreMod]: Successfully transformed 'wanion.unidict.common.Util.getOreNameFromIngredient'.
+[04:43:37] [Server thread/INFO] [wanionlib]: UniDict: Initializing Module: Mod Config, Side: Server
+[04:43:37] [Server thread/INFO] [wanionlib]: TConstruct Mod Config: Fixed TConstruct OreDict configuration.
+[04:43:37] [Server thread/INFO] [wanionlib]: UniDict: All 1 Mod Configs took 3ms to finish. at load stage Init
+[04:43:37] [Server thread/INFO] [Chisel]: Received 12 IMC messages from mod quark.
+[04:43:37] [Server thread/INFO] [Chisel]: Received 52 IMC messages from mod twilightforest.
+[04:43:37] [Server thread/INFO] [Chisel]: Received 22 IMC messages from mod tconstruct.
+[04:43:37] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Tinkers' Construct Plugin Enabled.
+[04:43:37] [Server thread/INFO] [FML]: Injecting itemstacks
+[04:43:37] [Server thread/INFO] [FML]: Itemstack injection complete
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:grass/0=>minecraft:grass/0' to mapping
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:lapis_ore/0=>1*minecraft:lapis_ore/4=>minecraft:lapis_ore/0' to mapping
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:lit_redstone_ore/0=>1*minecraft:redstone_ore/0=>minecraft:lit_redstone_ore/0' to mapping
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:grass/0=>minecraft:grass/0' to mapping
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:grass/0=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/1=>minecraft:dirt/1' to mapping
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/1=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/2=>minecraft:dirt/2' to mapping
+[04:43:37] [Server thread/INFO] [betterbuilderswands]: Added 'minecraft:dirt/2=>1*minecraft:dirt/0=>minecraft:dirt/0' to mapping
+[04:43:37] [Server thread/INFO] [cqrepoured]: Loading 19 dungeon configuration files...
+[04:43:37] [Server thread/INFO] [cqrepoured]: Loading 2 grid configuration files...
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '6'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '7'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '8'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '9'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '10'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '11'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '12'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '13'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '14'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid spawner type with metadata '15'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '3'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '4'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '5'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '6'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '7'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '8'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '9'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '10'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '11'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '12'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '13'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '14'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid floortrap type with metadata '15'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '5'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '6'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '7'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '8'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '9'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '10'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '11'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '12'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '13'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '14'
+[04:43:38] [Server thread/WARN] [deadlyworld]: Attempted to load invalid towertrap type with metadata '15'
+[04:43:38] [Server thread/INFO] [placebo]: Beginning replacement of all shapeless recipes...
+[04:43:38] [Server thread/INFO] [placebo]: Expect log spam from FML!
+[04:43:38] [Server thread/INFO] [placebo]: Successfully replaced 949 recipes with fast recipes.
+[04:43:38] [Server thread/INFO] [net.blay09.mods.kleeslabs.KleeSlabs]: If you wish to setup additional KleeSlabs compatibility, create a folder called 'KleeSlabsCompat' in your config directory and place JSON files inside.
+[04:43:38] [Server thread/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs]: Slab stone_limestone_slab could not be found.
+[04:43:38] [Server thread/ERROR] [net.blay09.mods.kleeslabs.KleeSlabs]: Slab stone_marble_slab could not be found.
+[04:43:39] [Server thread/INFO] [reborncore]: Loaded registrys for net.minecraftforge.fml.common.event.FMLPostInitializationEvent in 0ms
+[04:43:41] [Server thread/INFO] [xreliquary]: [xreliquary] Loaded successfully!
+[04:43:41] [Server thread/INFO] [torchmaster]: Applying mega torch entity block list overrides...
+[04:43:41] [Server thread/INFO] [torchmaster]: Applying dread lamp entity block list overrides...
+[04:43:41] [Server thread/INFO] [gravelores]: Started populating oregen list
+[04:43:41] [Server thread/INFO] [gravelores]: Started generating ore recipes...
+[04:43:41] [Server thread/INFO] [gravelores]: Ore recipe generation completed in 0.002703691 seconds.
+[04:43:41] [Server thread/INFO] [wanionlib]: UniDict: Initializing Module: Integration, Side: Server
+[04:43:41] [Server thread/INFO] [wanionlib]: Crafting Integration: Why so many recipes? I had to deal with at least 62 recipes.
+[04:43:41] [Server thread/INFO] [wanionlib]: Furnace Integration: Some things that you smelted appear to be different now.
+[04:43:41] [Server thread/INFO] [wanionlib]: Villagers Integration: Villagers now offer even better deals.
+[04:43:41] [Server thread/INFO] [wanionlib]: UniDict: All 3 Integrations took 39ms to finish. at load stage PostInit
+[04:43:41] [Server thread/INFO] [cofhcore]: CoFH Core: Load Complete.
+[04:43:41] [Server thread/INFO] [CoFH World]: Accumulating world generation files from: "/serverdata/config/cofh/world"
+[04:43:41] [Server thread/INFO] [CoFH World]: Replacing standard generation with file "cofh/world/00_minecraft.json"
+[04:43:41] [Server thread/INFO] [CoFH World]: Found a total of 5 world generation files.
+[04:43:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/00_minecraft.json":
+[04:43:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/01_thermalfoundation_ores.json":
+[04:43:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/02_thermalfoundation_oil.json":
+[04:43:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/03_thermalfoundation_clathrates.json":
+[04:43:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/04_thp_nether_ores.json":
+[04:43:42] [Server thread/INFO] [CoFH World]: CoFH World: Load Complete.
+[04:43:42] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[04:43:42] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[04:43:42] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[04:43:42] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[04:43:42] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[04:43:42] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[04:43:42] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[04:43:42] [Server thread/ERROR] [Enchanting Plus]: Tried to blacklist item {0} but it does not exist.
+[04:43:42] [Server thread/INFO] [thermalfoundation]: [Whitelist] Reading established Whitelist from file.
+[04:43:42] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Load Complete.
+[04:43:42] [Server thread/INFO] [Waila]: Starting Waila...
+[04:43:42] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[04:43:42] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugins...
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[04:43:42] [Server thread/ERROR] [Waila]: Error registering wrapped plugin from storagedrawers at com.jaquadro.minecraft.storagedrawers.integration.Waila.registerProvider
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at com.progwml6.natura.plugin.waila.PluginWaila
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at com.wynprice.secretroomsmod.integration.walia.SecretWalia
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at growthcraft.cellar.common.compat.waila.WailaDataProvider
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at info.tehnut.soulshardsrespawn.compat.hwyla.HwylaCompatibilityPlugin
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at landmaster.plustic.waila.PTWailaRegistrar
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at org.icannt.netherendingores.integration.common.compat.WailaCompatibility
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at slimeknights.tconstruct.plugin.waila.WailaRegistrar
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at team.chisel.common.integration.waila.ChiselDataHandler
+[04:43:42] [Server thread/INFO] [Waila]: Registering plugin at xreliquary.compat.waila.WailaCallbackHandler
+[04:43:42] [Server thread/INFO] [Waila]: Starting Waila took 114.4 ms
+[04:43:42] [Server thread/INFO] [LoliASM]: Trimming simple registries
+[04:43:43] [Server thread/INFO] [LoliASM]: Cleaning up LaunchClassLoader
+[04:43:43] [Server thread/INFO] [LoliASM]: 1495936 total strings processed. 98107 unique strings in LoliStringPool, 1397829 strings deduplicated altogether during game load.
+[04:43:43] [Server thread/INFO] [LoliASM]: Took 58.73 ms to canonicalize Java's FilePermission caches.
+[04:43:43] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 182 mods
+[04:43:43] [Server thread/INFO] [cqrepoured]: Successfully loaded texture set: TavernTS!
+[04:43:43] [Server thread/INFO] [cqrepoured]: Successfully loaded texture set: textureSetPreset!
+[04:43:43] [Server thread/INFO] [cqrepoured]: Loaded 2 texture Sets!
+[04:43:43] [Server thread/INFO] [cqrepoured]: Default factions loaded and initialized!
+[04:43:43] [Server thread/WARN] [cqrepoured]: Invalid entity-faction relation "iceandfire:dragonegg=DRAGONS"! Entity does not exists!
+[04:43:43] [Server thread/WARN] [cqrepoured]: Invalid entity-faction relation "iceandfire:firedragon=DRAGONS"! Entity does not exists!
+[04:43:43] [Server thread/WARN] [cqrepoured]: Invalid entity-faction relation "iceandfire:icedragon=DRAGONS"! Entity does not exists!
+[04:43:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[04:43:44] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[04:43:44] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:43:45] [Server thread/INFO] [FML]: Applying holder lookups
+[04:43:45] [Server thread/INFO] [FML]: Holder lookups applied
+[04:43:45] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/ProjectVibrantJourneys.cfg
+[04:43:45] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/Traverse.cfg
+[04:43:45] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/DimDoors.cfg
+[04:43:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityFishHook from class xreliquary.entities.EntityLyssaHook
+[04:43:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityTippedArrow from class xreliquary.entities.EntityXRTippedArrow
+[04:43:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[04:43:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[04:43:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[04:43:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[04:43:48] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/tools/stone_shovel
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_shovel'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/tools/stone_pickaxe
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_pickaxe'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/tools/stone_hoe
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_hoe'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/tools/stone_axe
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_axe'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/redstone_block
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:redstone'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/redstone
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:redstone'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/misc/iron_ingot_from_block
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:iron_ingot_from_block'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/misc/gold_ingot_from_block
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:gold_ingot_from_block'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/misc/emerald
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:emerald'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/misc/diamond
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:diamond'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/misc/coal
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:coal'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/combat/stone_sword
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:stone_sword'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/iron_block
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:iron_ingot_from_block'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/gold_block
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:gold_ingot_from_block'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/emerald_block
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:emerald'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/diamond_block
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:diamond'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/coal_block
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:coal'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/bookshelf
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:bookshelf'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.loadAllWorlds(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_342]
+[04:43:49] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 717 advancements
+[04:43:49] [Server thread/INFO] [LoliASM]: Took 14.29 ms to canonicalize Java's FilePermission caches.
+[04:43:50] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/ProjectVibrantJourneys.cfg
+[04:43:50] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/Traverse.cfg
+[04:43:50] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/DimDoors.cfg
+[04:43:50] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:43:52] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:43:52] [Server thread/INFO] [LoliASM]: Took 13.51 ms to canonicalize Java's FilePermission caches.
+[04:43:52] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:43:52] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/ProjectVibrantJourneys.cfg
+[04:43:52] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/Traverse.cfg
+[04:43:52] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/DimDoors.cfg
+[04:43:52] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:43:54] [Server thread/INFO] [LoliASM]: Took 12.30 ms to canonicalize Java's FilePermission caches.
+[04:43:54] [Server thread/INFO] [FML]: Loading dimension 684 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:43:54] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/ProjectVibrantJourneys.cfg
+[04:43:54] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/Traverse.cfg
+[04:43:54] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/DimDoors.cfg
+[04:43:54] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:43:57] [Server thread/INFO] [LoliASM]: Took 13.09 ms to canonicalize Java's FilePermission caches.
+[04:43:57] [Server thread/INFO] [FML]: Loading dimension 685 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:43:57] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/ProjectVibrantJourneys.cfg
+[04:43:57] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/Traverse.cfg
+[04:43:57] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/DimDoors.cfg
+[04:43:57] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:43:58] [Server thread/INFO] [LoliASM]: Took 8.589 ms to canonicalize Java's FilePermission caches.
+[04:43:58] [Server thread/INFO] [FML]: Loading dimension 686 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:43:58] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/ProjectVibrantJourneys.cfg
+[04:43:58] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/Traverse.cfg
+[04:43:58] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/DimDoors.cfg
+[04:43:58] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:43:59] [Server thread/INFO] [LoliASM]: Took 7.416 ms to canonicalize Java's FilePermission caches.
+[04:43:59] [Server thread/INFO] [FML]: Loading dimension 687 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:43:59] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/ProjectVibrantJourneys.cfg
+[04:43:59] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/Traverse.cfg
+[04:43:59] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/DimDoors.cfg
+[04:44:00] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:44:00] [Server thread/INFO] [LoliASM]: Took 7.532 ms to canonicalize Java's FilePermission caches.
+[04:44:00] [Server thread/INFO] [FML]: Loading dimension 688 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:44:00] [Server thread/INFO] [LoliASM]: Took 7.366 ms to canonicalize Java's FilePermission caches.
+[04:44:00] [Server thread/INFO] [FML]: Loading dimension -17 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:44:00] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/ProjectVibrantJourneys.cfg
+[04:44:00] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/Traverse.cfg
+[04:44:00] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/DimDoors.cfg
+[04:44:01] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:44:01] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:44:02] [Server thread/INFO] [LoliASM]: Took 6.573 ms to canonicalize Java's FilePermission caches.
+[04:44:02] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@6ec7136e)
+[04:44:02] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/ProjectVibrantJourneys.cfg
+[04:44:02] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/Traverse.cfg
+[04:44:02] [Server thread/INFO] [drzhark.customspawner.environment.EnvironmentSettings]: Loaded default creatures from HaxyMocreaturesModAdder /Creatures/DimDoors.cfg
+[04:44:02] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:44:03] [Server thread/INFO] [LoliASM]: Took 7.589 ms to canonicalize Java's FilePermission caches.
+[04:44:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[04:44:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 3%
+[04:44:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 29%
+[04:44:06] [Finalizer/WARN] [LoliASM]: Clearing LoliStringPool 1
+[04:44:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
+[04:44:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (23.515s)! For help, type "help" or "?"
+[04:44:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting GS4 status listener
+[04:44:07] [Query Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Query running on 0.0.0.0:25565
+[04:44:08] [Server thread/INFO] [leviathan143.loottweaker.common.lib.LootTableDumper]: Loot table minecraft:thp_loot_rare saved to /serverdata/world/data/loot_tables/minecraft/thp_loot_rare.json
+[04:44:08] [Server thread/INFO] [leviathan143.loottweaker.common.lib.LootTableDumper]: Loot table minecraft:thp_loot_uncommon saved to /serverdata/world/data/loot_tables/minecraft/thp_loot_uncommon.json
+[04:44:08] [Server thread/INFO] [leviathan143.loottweaker.common.lib.LootTableDumper]: Loot table minecraft:thp_loot_common saved to /serverdata/world/data/loot_tables/minecraft/thp_loot_common.json
+[04:44:09] [Server thread/WARN] [com.matthewprenger.helpfixer.HelpFixer]: Command bountiful incorrectly overrides compareTo: %s
+[04:44:09] [Server thread/WARN] [com.matthewprenger.helpfixer.HelpFixer]: Command bountiful incorrectly overrides compareTo: %s
+[04:44:09] [Server thread/WARN] [com.matthewprenger.helpfixer.HelpFixer]: Command bountiful incorrectly overrides compareTo: %s
+[04:44:09] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[04:44:09] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[04:44:09] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[04:44:09] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[04:44:09] [Server thread/INFO] [Quark ASM]: Patch result: true
+[04:44:09] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:44:09] [Server thread/INFO] [FML]: Unloading dimension 1
+[04:44:09] [Server thread/INFO] [FML]: Unloading dimension 684
+[04:44:09] [Server thread/INFO] [FML]: Unloading dimension 685
+[04:44:09] [Server thread/INFO] [FML]: Unloading dimension 686
+[04:44:09] [Server thread/INFO] [FML]: Unloading dimension 687
+[04:44:09] [Server thread/INFO] [FML]: Unloading dimension 688
+[04:44:09] [Server thread/INFO] [FML]: Unloading dimension -17
+[04:44:09] [Server thread/INFO] [FML]: Unloading dimension 7

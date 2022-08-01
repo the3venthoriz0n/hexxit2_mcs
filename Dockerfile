@@ -13,6 +13,7 @@ ADD .src ${SERVER_DIR}
 #COPY .src ${SERVER_DIR}
 
 CMD echo "Server is starting..." 
+WORKDIR ${SERVER_DIR}
 
 #Server Start
 ENTRYPOINT ["sh", "LaunchServer.sh"]
